@@ -7,7 +7,7 @@ title:
 description: Personal website of Jessica Hamrick
 
 # Your name to show in the footer
-author: Jessica Hamrick
+author: Samin Yeasar Arnob
 
 # --- List of links in the navigation bar --- #
 
@@ -15,7 +15,7 @@ navbar-links:
   About Me: "/"
   Publications: "publications"
   Talks: "talks"
-  CV: "jessica-hamrick-cv.pdf"
+  CV: "samin-yeasar-cv.pdf"
   Blog: "blog"
 
 # --- Logo --- #
@@ -38,14 +38,14 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "jessica.b.hamrick@gmail.com"
+  email: "arnobsam@mila.quebec"
   # facebook: deanattali
-  github: jhamrick
-  twitter: jhamrick
+  github: SaminYeasar
+  twitter: YeasarArnob
   rss: false
-  scholar: 2ylcZSsAAAAJ
+  scholar: RMPv4RQAAAAJ
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: samin-yeasar-arnob
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -65,7 +65,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: false
-  linkedin: false
+  linkedin: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
