@@ -69,7 +69,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "jesshamrick.com"
+url-pretty: "saminyeasar.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -120,7 +120,7 @@ google_analytics: "UA-12554873-1"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-disqus: "jesshamrick"
+disqus: "saminyeasar"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
