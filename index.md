@@ -4,7 +4,7 @@ title: Samin Yeasar Arnob
 subtitle: 
 ---
 
-I have started Ph.D. from January 2020 in Computer Science at McGill University under the supervision of [Dr. Doina Precup][3] at [Reasoning and learning lab (rllab)][2] and at [Mila][1]. I'm interested in imitation learning algorithms with the focus of learning lifelong skills in games.
+I have started Ph.D. from January 2020 in Computer Science at McGill University under the supervision of [Dr. Doina Precup][3] at [Mila][1] and [Reasoning and learning lab (rllab)][2]. I'm interested in imitation learning algorithms with the focus of learning lifelong skills in games.
 
 I completed Masters from Electrical and Computer Engineering at McGill University.  My master's research was on "Adversarial Inverse Reinforcement Learning" under the supervision of [Dr. Aditya Mahajan][4] at [Centre for Intelligent Machine (CIM)][5].
 
