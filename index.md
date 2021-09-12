@@ -28,3 +28,15 @@ I completed my Under-graduation from Islamic University of Technology (IUT), Ban
 * **June, 2019.** "Doubly Robust Estimators in Off-Policy Actor-Critic Algorithms" got accepted for **spotlight** presentation at **RLDM 2019**
 * **January, 2018.** I started Master's at McGill University.
 
+
+### Research Interest
+
+* Reinforcement Learning
+* Imitation Learning
+* Offline  Reinforcement Learning
+* Lifelong Learning
+* Tranfer Learning
+* Inverse Reinforcement Learning
+* Generative Adversarial Networks 
+* Hierarchical Reinforcement Learning
+
