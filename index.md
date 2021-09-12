@@ -22,7 +22,8 @@ I completed my Under-graduation from Islamic University of Technology (IUT), Ban
 ### News
 
 * **September, 2021.** I have joined **Ubisoft** as **Research Intern**.
-* **January, 2020.** I have started my Ph.D. at McGill University.
+* **June, 2020.** "Off-Policy Adversarial Inverse Reinforcement Learning" got accepted in **4th Lifelong Learning workshop at ICML 2020** 
+* **January, 2020.** I have started my **Ph.D.** at **McGill University**.
 * **June, 2019.** I joined **Mila** as **Research Intern**.
 * **June, 2019.** "Doubly Robust Estimators in Off-Policy Actor-Critic Algorithms" got accepted for **spotlight** presentation at **RLDM 2019**
 * **January, 2018.** I started Master's at McGill University.
