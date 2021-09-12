@@ -13,10 +13,10 @@ author: Samin Yeasar Arnob
 
 navbar-links:
   About Me: "/"
-  Publications: "publications"
-  Talks: "talks"
+  #Publications: "publications"
+  #Talks: "talks"
   CV: "samin-yeasar-cv.pdf"
-  Blog: "blog"
+  #Blog: "blog"
 
 # --- Logo --- #
 
