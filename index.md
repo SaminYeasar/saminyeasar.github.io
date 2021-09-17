@@ -18,6 +18,9 @@ I completed my Under-graduation from Islamic University of Technology (IUT), Ban
 [4]:http://www.ece.mcgill.ca/~amahaj1/
 [5]:https://www.mcgill.ca/cim/
 
+### Affiliations
+<img src="https://imgur.com/IRBaiqh.png" width="120" height="50"> <img src="https://imgur.com/EQKabmk.png" width="120" height="65"> <img src="https://imgur.com/A8iS0di.png" width="60" height="55">
+ 
 
 ### News
 
