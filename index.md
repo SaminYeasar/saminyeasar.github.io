@@ -24,6 +24,7 @@ I completed my Under-graduation from Islamic University of Technology (IUT), Ban
 
 ### News
 
+* **October, 2021.** Two papers got accepted in Offline Reinforcement Learning Workshop **NeurIPS 2021**. (Will be available online soon)
 * **September, 2021.** I have joined **Ubisoft** as **Research Intern**.
 * **June, 2020.** "Off-Policy Adversarial Inverse Reinforcement Learning" got accepted in **4th Lifelong Learning workshop** at **ICML 2020**.
 * **January, 2020.** I have started my **Ph.D.** at **McGill University**.
