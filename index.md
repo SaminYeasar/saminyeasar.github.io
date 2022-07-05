@@ -41,8 +41,7 @@ I completed my Under-graduation from Islamic University of Technology (IUT), Ban
 * Reinforcement Learning
 * Imitation Learning
 * Offline  Reinforcement Learning
-* Lifelong Learning
-* Tranfer Learning
-* Inverse Reinforcement Learning
+* Representation learning
+* Multitask Learning
 * Generative Adversarial Networks 
 * Hierarchical Reinforcement Learning
