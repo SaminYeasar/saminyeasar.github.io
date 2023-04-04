@@ -19,21 +19,24 @@ I completed my Under-graduation from Islamic University of Technology (IUT), Ban
 [5]:https://www.mcgill.ca/cim/
 
 ### Affiliations
-<img src="https://imgur.com/IRBaiqh.png" width="120" height="50"> <img src="https://imgur.com/EQKabmk.png" width="120" height="65"> <img src="https://imgur.com/A8iS0di.png" width="60" height="55">
+<img src="https://imgur.com/IRBaiqh.png" width="120" height="50"> <img src="https://imgur.com/EQKabmk.png" width="120" height="65"> <img src="https://imgur.com/eWTBidl.png" width="60" height="55">
+#### Previously
+<img src="https://imgur.com/A8iS0di.png" width="60" height="55">
  
-
 ### News
 
-* **October, 2021.** Two papers got accepted in **Offline Reinforcement Learning Workshop, NeurIPS 2021**
-  - "Importance of Empirical Sample Complexity Analysis for Offline Reinforcement Learning" - [Paper](https://offline-rl-neurips.github.io/2021/pdf/38.pdf)
-  - "Single-Shot Pruning for Offline Reinforcement Learning" - [Paper](https://offline-rl-neurips.github.io/2021/pdf/27.pdf)
-* **September, 2021.** I have joined **Ubisoft** as **Research Intern**.
-* **June, 2020.** "Off-Policy Adversarial Inverse Reinforcement Learning" got accepted in **Lifelong Learning workshop, ICML 2020**.
-    [Paper](https://openreview.net/forum?id=9mp5d073IhX), [Code](https://github.com/SaminYeasar/Off_Policy_Adversarial_Inverse_Reinforcement_Learning),[Talk](https://www.youtube.com/watch?v=PK3byu61JKI&ab_channel=SaminYeasarArnob)
-* **January, 2020.** I have started my **Ph.D.** at **McGill University**.
-* **June, 2019.** I joined **Mila** as **Research Intern**.
-* **June, 2019.** "Doubly Robust Estimators in Off-Policy Actor-Critic Algorithms" got accepted for **spotlight** presentation at **RLDM 2019**
-* **January, 2018.** I started Master's at McGill University.
+> **May, 2023.** I'm joining **Microsoft**, New York as **Research Intern**, will work on Appiled RL project with John Langford and Alex Lamb.
+> **Sep, 2021- Aug 2022.** I have worked at **Ubisoft**, Montreal with Joshua Romoff as **Research Intern**.
+>
+> **June, 2020.** "Off-Policy Adversarial Inverse Reinforcement Learning" got accepted in **4th Lifelong Learning workshop** at **ICML 2020**.
+>
+> **January, 2020.** I have started my **Ph.D.** at **McGill University** and  **Mila**.
+>
+> **June, 2019.** I joined **Mila** as **Research Intern**.
+>
+> **June, 2019.** "Doubly Robust Estimators in Off-Policy Actor-Critic Algorithms" got accepted for **spotlight** presentation at **RLDM 2019**
+>
+> **January, 2018.** I started Master's at McGill University.
 
 
 ### Research Interest
