@@ -25,18 +25,13 @@ I completed my Under-graduation from Islamic University of Technology (IUT), Ban
  
 ### News
 
-> **May, 2023.** I'm joining **Microsoft**, New York as **Research Intern**, will work on Appiled RL project with John Langford and Alex Lamb.
-> **Sep, 2021- Aug 2022.** I have worked at **Ubisoft**, Montreal with Joshua Romoff as **Research Intern**.
->
-> **June, 2020.** "Off-Policy Adversarial Inverse Reinforcement Learning" got accepted in **4th Lifelong Learning workshop** at **ICML 2020**.
->
-> **January, 2020.** I have started my **Ph.D.** at **McGill University** and  **Mila**.
->
-> **June, 2019.** I joined **Mila** as **Research Intern**.
->
-> **June, 2019.** "Doubly Robust Estimators in Off-Policy Actor-Critic Algorithms" got accepted for **spotlight** presentation at **RLDM 2019**
->
-> **January, 2018.** I started Master's at McGill University.
+* **May, 2023.** I'm joining **Microsoft**, New York as **Research Intern**, will work on Appiled RL project with John Langford and Alex Lamb.
+* **Sep, 2021- Aug 2022.** I have worked at **Ubisoft**, Montreal with Joshua Romoff as **Research Intern**.
+* **June, 2020.** "Off-Policy Adversarial Inverse Reinforcement Learning" got accepted in **4th Lifelong Learning workshop** at **ICML 2020**.
+* **January, 2020.** I have started my **Ph.D.** at **McGill University** and  **Mila**.
+* **June, 2019.** I joined **Mila** as **Research Intern**.
+* **June, 2019.** "Doubly Robust Estimators in Off-Policy Actor-Critic Algorithms" got accepted for **spotlight** presentation at **RLDM 2019**
+* **January, 2018.** I started Master's at McGill University.
 
 
 ### Research Interest
