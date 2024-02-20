@@ -4,13 +4,13 @@ title: Samin Yeasar Arnob
 subtitle: 
 ---
 
-I am a Ph.D. student in Computer Science at McGill University working with [Dr. Doina Precup][3] at [Mila][1] and [Reasoning and learning lab (rllab)][2]. My research focus is on ”learning from expert data” in Offline RL. I’m also interested in General Value functions, Multitask Learning, Sequential RL using auto-regressive model (ex: transformer), Representation learning for better generalization, Hierarchical Learning.
+I am a Ph.D. student in Computer Science at McGill University working with [Dr. Doina Precup][3] at [Mila][1] and [Reasoning and learning lab (rllab)][2]. My research focus is on "\textbf{Improving the Capacity of Neural Networks for Reinforcement Learning Agents}". I am working on efficiently using neural networks where we take inspiration from the human brain, using multiple specialized pathways through a single network, with each pathway focusing on a single task. This is an alternate way to "routing" and a mixture of expert structures that can be added to LLM. I'm also interested in General Value functions, Multitask Learning, Sequential RL using auto-regressive model (ex: transformer), Representation learning for better generalization and exploration, and Hierarchical Learning.
 
-I completed Masters from Electrical and Computer Engineering at McGill University.  My master's research was on "Adversarial Inverse Reinforcement Learning" under the supervision of [Dr. Aditya Mahajan][4] at [Centre for Intelligent Machine (CIM)][5].
+I completed Master's in Electrical and Computer Engineering at McGill University.  My master's research was on "Adversarial Inverse Reinforcement Learning" under the supervision of [Dr. Aditya Mahajan][4] at [Centre for Intelligent Machine (CIM)][5].
 
-I have also worked at [Mila][1] as an intern with [Dr. Doina Precup][3] on NeurIPS MineRL competition 2019, where we explore learning transferable skills over multiple environments from MineCraft gaming environment using imitation learning.
+I have also worked at [Mila][1] as an intern with [Dr. Doina Precup][3] on NeurIPS MineRL competition 2019, where we explore learning transferable skills over multiple environments from the MineCraft gaming environment using imitation learning.
 
-I completed my Under-graduation from Islamic University of Technology (IUT), Bangladesh. I had the pleasure to work on "Computational Nano-photonics" and was supervised by Dr. Md. Ruhul Amin and co-supervised by Dr. Rakibul Hasan Sagor.
+I completed my Under-graduation from Islamic University of Technology (IUT), Bangladesh. I had the pleasure of working on "Computational Nano-photonics" and was supervised by Dr. Md. Ruhul Amin and co-supervised by Dr. Rakibul Hasan Sagor.
 
 [1]:https://mila.quebec/
 [2]:http://rl.cs.mcgill.ca/
@@ -25,7 +25,7 @@ I completed my Under-graduation from Islamic University of Technology (IUT), Ban
  
 ### News
 
-* **May, 2023.** I'm joining **Microsoft**, New York as **Research Intern**, will work on Appiled RL project with John Langford and Alex Lamb.
+* **May, 2023.** I'm joining **Microsoft**, New York as **Research Intern**, and will work on a Appiled RL project with John Langford and Alex Lamb.
 * **October, 2021.** Two papers got accepted in **Offline Reinforcement Learning Workshop, NeurIPS 2021**
   - "Importance of Empirical Sample Complexity Analysis for Offline Reinforcement Learning" - [Paper](https://offline-rl-neurips.github.io/2021/pdf/38.pdf)
   - "Single-Shot Pruning for Offline Reinforcement Learning" - [Paper](https://offline-rl-neurips.github.io/2021/pdf/27.pdf)
@@ -35,7 +35,7 @@ I completed my Under-graduation from Islamic University of Technology (IUT), Ban
 * **January, 2020.** I have started my **Ph.D.** at **McGill University**.
 * **June, 2019.** I joined **Mila** as **Research Intern**.
 * **June, 2019.** "Doubly Robust Estimators in Off-Policy Actor-Critic Algorithms" got accepted for **spotlight** presentation at **RLDM 2019**
-* **January, 2018.** I started Master's at McGill University.
+* **January, 2018.** I started my Master's at McGill University.
 
 
 ### Research Interest
