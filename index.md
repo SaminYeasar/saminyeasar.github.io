@@ -24,8 +24,8 @@ I completed my Under-graduation from Islamic University of Technology (IUT), Ban
 <img src="https://imgur.com/A8iS0di.png" width="60" height="55">
  
 ### News
-
-* **May, 2023.** I'm joining **Microsoft**, New York as **Research Intern**, and will work on a Appiled RL project with John Langford and Alex Lamb.
+* **March 2024.** I'm joining **Microsoft Research**, Montreal as part-time research intern. I will be working on Multitask and Multimodal learning using LLM.
+* **May, 2023- Aug, 2023.** I worked at **Microsoft Research**, New York as **Research Intern**, on an Appiled RL project with John Langford and Alex Lamb.
 * **October, 2021.** Two papers got accepted in **Offline Reinforcement Learning Workshop, NeurIPS 2021**
   - "Importance of Empirical Sample Complexity Analysis for Offline Reinforcement Learning" - [Paper](https://offline-rl-neurips.github.io/2021/pdf/38.pdf)
   - "Single-Shot Pruning for Offline Reinforcement Learning" - [Paper](https://offline-rl-neurips.github.io/2021/pdf/27.pdf)
