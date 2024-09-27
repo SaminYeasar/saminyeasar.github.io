@@ -4,13 +4,17 @@ title: Samin Yeasar Arnob
 subtitle: 
 ---
 
-I am a Ph.D. student in Computer Science at McGill University working with [Dr. Doina Precup][3] at [Mila][1] and [Reasoning and learning lab (rllab)][2]. My research focus is on "**Improving the Capacity of Neural Networks for Reinforcement Learning Agents**". I am working on efficiently using neural networks where we take inspiration from the human brain, using multiple specialized pathways through a single network, with each pathway focusing on a single task. This is an alternate way to "routing" and a mixture of expert structures that can be added to LLM. I'm also interested in General Value functions, Multitask Learning, Sequential RL using auto-regressive model (ex: transformer), Representation learning for better generalization and exploration, and Hierarchical Learning.
+I am a visiting student-researcher at **Microsoft Research, Montreal** and doing a Ph.D. in Computer Science at **McGill University** and [Mila Quebec AI Institute][1] working with [Dr. Doina Precup][3].
+
+My research focus is on "**Improving the Capacity of Neural Networks and Parameter Efficient training for RL and LLMs**". I am working on efficiently using neural networks where we take inspiration from the human brain, using multiple specialized pathways through a single network, with each pathway focusing on a single task. This is an alternate way to "routing" and a mixture of expert structures that can be added to LLM. 
+
+I'm interested in the ***Mixture of experts*** (MoE), ***Parameter-efficient finetuning*** (peft) in LLM, ***Preference fine-tuning*** using Reinforcement Learning (RL), LLM ***alignment***, ***Improving mergability of a mixture of experts***.
+
+---
+Prior I did applied research internships at **Microsoft Research, New York** (summer 2023, host: John Lanford, Alex Lamb), **Ubisoft La Forge, Montreal** (2021-2022, host: Joshua Romoff), **Mila Quebec AI Institute** (2019, host: Doina Precup)
 
 I completed Master's in Electrical and Computer Engineering at McGill University.  My master's research was on "Adversarial Inverse Reinforcement Learning" under the supervision of [Dr. Aditya Mahajan][4] at [Centre for Intelligent Machine (CIM)][5].
 
-I have also worked at [Mila][1] as an intern with [Dr. Doina Precup][3] on NeurIPS MineRL competition 2019, where we explore learning transferable skills over multiple environments from the MineCraft gaming environment using imitation learning.
-
-I completed my Under-graduation from Islamic University of Technology (IUT), Bangladesh. I had the pleasure of working on "Computational Nano-photonics" and was supervised by Dr. Md. Ruhul Amin and co-supervised by Dr. Rakibul Hasan Sagor.
 
 [1]:https://mila.quebec/
 [2]:http://rl.cs.mcgill.ca/
