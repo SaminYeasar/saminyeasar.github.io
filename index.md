@@ -4,7 +4,6 @@ title: Samin Yeasar Arnob
 subtitle: 
 ---
 
-###
 ### Latest News
 * **September 2024.** "**Parameter-efficient Reinforcement Learning by Discovering Neural Pathways**" got accepted in **NeurIPS 2024**! 🎉
 * **March 2024.** I'm joining **Microsoft Research**, Montreal as part-time research intern. I will be working on parameter efficient fine-tuning (PEFT) with the goal of building a mixture of experts (MoE) for LLMs.
