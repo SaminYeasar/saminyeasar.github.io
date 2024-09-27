@@ -24,6 +24,7 @@ I completed my Under-graduation from Islamic University of Technology (IUT), Ban
 <img src="https://imgur.com/A8iS0di.png" width="60" height="55">
  
 ### News
+* **September 2024** **NeurIPS 2024**: "**Parameter-efficient Reinforcement Learning by Discovering Neural Pathways**" got accepted! :confetti_ball:
 * **March 2024.** I'm joining **Microsoft Research**, Montreal as part-time research intern. I will be working on Multitask and Multimodal learning using LLM.
 * **May, 2023- Aug, 2023.** I worked at **Microsoft Research**, New York as **Research Intern**, on an Appiled RL project with John Langford and Alex Lamb.
 * **October, 2021.** Two papers got accepted in **Offline Reinforcement Learning Workshop, NeurIPS 2021**
