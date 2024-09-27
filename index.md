@@ -4,6 +4,13 @@ title: Samin Yeasar Arnob
 subtitle: 
 ---
 
+###
+### Latest News
+* **September 2024.** "**Parameter-efficient Reinforcement Learning by Discovering Neural Pathways**" got accepted in **NeurIPS 2024**! 🎉
+* **March 2024.** I'm joining **Microsoft Research**, Montreal as part-time research intern. I will be working on parameter efficient fine-tuning (PEFT) with the goal of building a mixture of experts (MoE) for LLMs.
+
+---
+
 I am a visiting student-researcher at **Microsoft Research, Montreal** and doing a Ph.D. in Computer Science at **McGill University** and [Mila Quebec AI Institute][1] working with [Dr. Doina Precup][3].
 
 My research focus is on "**Improving the Learning Capacity and Parameter Efficient training for RL and LLMs**". I am working on efficiently using neural networks where we take inspiration from the human brain, using multiple specialized pathways through a single network, with each pathway focusing on a single task. This is an alternate way to "routing" and a mixture of expert structures that can be added to LLM. 
@@ -28,8 +35,6 @@ I completed Master's in Electrical and Computer Engineering at McGill University
 <img src="https://imgur.com/A8iS0di.png" width="60" height="55">
  
 ### News
-* **September 2024.** "**Parameter-efficient Reinforcement Learning by Discovering Neural Pathways**" got accepted in **NeurIPS 2024**! 🎉
-* **March 2024.** I'm joining **Microsoft Research**, Montreal as part-time research intern. I will be working on Multitask and Multimodal learning using LLM.
 * **May, 2023- Aug, 2023.** I worked at **Microsoft Research**, New York as **Research Intern**, on an Appiled RL project with John Langford and Alex Lamb.
 * **October, 2021.** Two papers got accepted in **Offline Reinforcement Learning Workshop, NeurIPS 2021**
   - "Importance of Empirical Sample Complexity Analysis for Offline Reinforcement Learning" - [Paper](https://offline-rl-neurips.github.io/2021/pdf/38.pdf)
