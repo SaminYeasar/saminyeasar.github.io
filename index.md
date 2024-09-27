@@ -6,7 +6,7 @@ subtitle:
 
 I am a visiting student-researcher at **Microsoft Research, Montreal** and doing a Ph.D. in Computer Science at **McGill University** and [Mila Quebec AI Institute][1] working with [Dr. Doina Precup][3].
 
-My research focus is on "**Improving the Capacity of Neural Networks and Parameter Efficient training for RL and LLMs**". I am working on efficiently using neural networks where we take inspiration from the human brain, using multiple specialized pathways through a single network, with each pathway focusing on a single task. This is an alternate way to "routing" and a mixture of expert structures that can be added to LLM. 
+My research focus is on "**Improving the Learning Capacity and Parameter Efficient training for RL and LLMs**". I am working on efficiently using neural networks where we take inspiration from the human brain, using multiple specialized pathways through a single network, with each pathway focusing on a single task. This is an alternate way to "routing" and a mixture of expert structures that can be added to LLM. 
 
 I'm interested in the ***Mixture of experts*** (MoE), ***Parameter-efficient finetuning*** (peft) in LLM, ***Preference fine-tuning*** using Reinforcement Learning (RL), LLM ***alignment***, ***Improving mergability of a mixture of experts***.
 
