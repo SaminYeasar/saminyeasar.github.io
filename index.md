@@ -4,6 +4,8 @@ title: Samin Yeasar Arnob
 subtitle: 
 ---
 
+<img src="https://imgur.com/IRBaiqh.png" width="120" height="50"> <img src="https://imgur.com/EQKabmk.png" width="120" height="65"> <img src="https://imgur.com/eWTBidl.png" width="60" height="55">
+
 ### Latest News
 * **September 2024.** "**Parameter-efficient Reinforcement Learning by Discovering Neural Pathways**" got accepted in **NeurIPS 2024**! 🎉
 * **March 2024.** I'm joining **Microsoft Research**, Montreal as part-time research intern. I will be working on parameter efficient fine-tuning (PEFT) with the goal of building a mixture of experts (MoE) for LLMs.
@@ -28,10 +30,7 @@ I completed Master's in Electrical and Computer Engineering at McGill University
 [4]:http://www.ece.mcgill.ca/~amahaj1/
 [5]:https://www.mcgill.ca/cim/
 
-### Affiliations
-<img src="https://imgur.com/IRBaiqh.png" width="120" height="50"> <img src="https://imgur.com/EQKabmk.png" width="120" height="65"> <img src="https://imgur.com/eWTBidl.png" width="60" height="55">
-#### Previously
-<img src="https://imgur.com/A8iS0di.png" width="60" height="55">
+
  
 ### News
 * **May, 2023- Aug, 2023.** I worked at **Microsoft Research**, New York as **Research Intern**, on an Appiled RL project with John Langford and Alex Lamb.
