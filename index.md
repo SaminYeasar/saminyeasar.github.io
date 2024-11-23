@@ -49,10 +49,5 @@ I completed Master's in Electrical and Computer Engineering at McGill University
 
 ### Research Interest
 
-* Reinforcement Learning
-* Imitation Learning
-* Offline  Reinforcement Learning
-* Representation learning
-* Multitask Learning
-* Generative Adversarial Networks 
-* Hierarchical Reinforcement Learning
+* Reinforcement Learning: Improving LLM, Imitation Learning, Offline  Reinforcement Learning, Multitask Learning, Representation learning
+* Large Language Model: Mixture of experts (MoE),  Improving mergability of a mixture of experts, Parameter-efficient finetuning (peft), Preference fine-tuning, LLM alignment
