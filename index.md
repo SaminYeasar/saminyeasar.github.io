@@ -7,7 +7,8 @@ subtitle:
 <img src="https://imgur.com/IRBaiqh.png" width="120" height="50"> <img src="https://imgur.com/EQKabmk.png" width="120" height="65"> <img src="https://imgur.com/eWTBidl.png" width="60" height="55">
 
 ### Latest News
-* **September 2024.** "**Parameter-efficient Reinforcement Learning by Discovering Neural Pathways**" got accepted in **NeurIPS 2024**! 🎉
+* **September 2024.** "**Efficient Reinforcement Learning by Discovering Neural Pathways**" got accepted in **NeurIPS 2024**! 🎉
+   * [Paper](https://openreview.net/pdf?id=WEoOreP0n5)
 * **March 2024.** I'm joining **Microsoft Research**, Montreal as part-time research intern. I will be working on parameter efficient fine-tuning (PEFT) with the goal of building a mixture of experts (MoE) for LLMs.
 
 ---
