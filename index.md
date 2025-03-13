@@ -9,7 +9,7 @@ subtitle:
 ### Latest News
 * **March 2024.** "**Exploring Sparse Adapters for Scalable Merging of Parameter Efficient Experts**" got accepted in **ICLR 2025, Workshop on MCDC**! 🎉
    * [Paper](https://openreview.net/forum?id=8wt2eKkVe6)   
-* **March 2024.** "**Efficient Reinforcement Learning by Discovering Neural Pathways**" got accepted in **RLDM 2025**! 🎉
+* **March 2024.** "**Sparse-Reg: Improving Sample Complexity of Offline Reinforcement Learning using Sparse Regularization.**" got accepted in **RLDM 2025**! 🎉
    * [Paper](https://drive.google.com/file/d/1zIc-OOdd2R9a5LlMjF3KyiICZ84urLdS/view?usp=sharing)   
 * **September 2024.** "**Efficient Reinforcement Learning by Discovering Neural Pathways**" got accepted in **NeurIPS 2024**! 🎉
    * [Project Page](https://neural-pathways.github.io), [Paper](https://openreview.net/pdf?id=WEoOreP0n5), [Code](https://github.com/SaminYeasar/DAPD)
