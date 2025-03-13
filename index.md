@@ -10,7 +10,7 @@ subtitle:
 * **March 2025.** "**Exploring Sparse Adapters for Scalable Merging of Parameter Efficient Experts**" got accepted in **ICLR 2025, Workshop on MCDC**! 🎉
    * [Paper](https://openreview.net/forum?id=8wt2eKkVe6)
    * Keywords: Sparse adapter, Parameter-efficient finetuning, Model merging, LLM
-   * TL;DR: This paper explores sparse adapters as a simpler and more effective building block for modular, parameter-efficient architectures, demonstrating superior model merging performance at scale.
+   * TL;DR: We explore sparse adapters as a simpler and more effective building block for modular, parameter-efficient architectures, demonstrating superior model merging performance at scale.
 * **March 2025.** "**Sparse-Reg: Improving Sample Complexity of Offline Reinforcement Learning using Sparse Regularization.**" got accepted in **RLDM 2025**! 🎉
    * [Paper](https://drive.google.com/file/d/1zIc-OOdd2R9a5LlMjF3KyiICZ84urLdS/view?usp=sharing)
    * Keywords: Offline Reinforcement Learning, Sparsity, Regularization, Sample Complexity, Continuous Control.
