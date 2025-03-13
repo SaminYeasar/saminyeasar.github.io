@@ -7,10 +7,11 @@ subtitle:
 <img src="https://imgur.com/IRBaiqh.png" width="120" height="50"> <img src="https://imgur.com/EQKabmk.png" width="120" height="65"> <img src="https://imgur.com/eWTBidl.png" width="60" height="55">
 
 ### Latest News
-* **March 2024.** "**Exploring Sparse Adapters for Scalable Merging of Parameter Efficient Experts**" got accepted in **ICLR 2025, Workshop on MCDC**! 🎉
+* **March 2025.** "**Exploring Sparse Adapters for Scalable Merging of Parameter Efficient Experts**" got accepted in **ICLR 2025, Workshop on MCDC**! 🎉
    * [Paper](https://openreview.net/forum?id=8wt2eKkVe6)   
-* **March 2024.** "**Sparse-Reg: Improving Sample Complexity of Offline Reinforcement Learning using Sparse Regularization.**" got accepted in **RLDM 2025**! 🎉
-   * [Paper](https://drive.google.com/file/d/1zIc-OOdd2R9a5LlMjF3KyiICZ84urLdS/view?usp=sharing)   
+* **March 2025.** "**Sparse-Reg: Improving Sample Complexity of Offline Reinforcement Learning using Sparse Regularization.**" got accepted in **RLDM 2025**! 🎉
+   * [Paper](https://drive.google.com/file/d/1zIc-OOdd2R9a5LlMjF3KyiICZ84urLdS/view?usp=sharing)
+---
 * **September 2024.** "**Efficient Reinforcement Learning by Discovering Neural Pathways**" got accepted in **NeurIPS 2024**! 🎉
    * [Project Page](https://neural-pathways.github.io), [Paper](https://openreview.net/pdf?id=WEoOreP0n5), [Code](https://github.com/SaminYeasar/DAPD)
 * **March 2024.** I'm joining **Microsoft Research**, Montreal as part-time research intern. I will be working on parameter efficient fine-tuning (PEFT) with the goal of building a mixture of experts (MoE) for LLMs.
