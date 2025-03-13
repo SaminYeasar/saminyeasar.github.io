@@ -12,7 +12,7 @@ subtitle:
 * **March 2025.** "**Sparse-Reg: Improving Sample Complexity of Offline Reinforcement Learning using Sparse Regularization.**" got accepted in **RLDM 2025**! 🎉
    * [Paper](https://drive.google.com/file/d/1zIc-OOdd2R9a5LlMjF3KyiICZ84urLdS/view?usp=sharing)
 * **September 2024.** "**Efficient Reinforcement Learning by Discovering Neural Pathways**" got accepted in **NeurIPS 2024**! 🎉
-   * [Project Page](https://neural-pathways.github.io), [Paper](https://openreview.net/pdf?id=WEoOreP0n5), [Code](https://github.com/SaminYeasar/DAPD)
+   * [Project Page](https://neural-pathways.github.io), [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/216f4cd12cfd69d46770bb2b491ae24b-Abstract-Conference.html), [Code](https://github.com/SaminYeasar/DAPD)
 * **March 2024.** I'm joining **Microsoft Research**, Montreal as part-time research intern. I will be working on parameter efficient fine-tuning (PEFT) with the goal of building a mixture of experts (MoE) for LLMs.
 
 ---
