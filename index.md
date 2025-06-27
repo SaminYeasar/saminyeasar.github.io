@@ -19,7 +19,7 @@ subtitle:
    * [Project Page](https://neural-pathways.github.io), [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/216f4cd12cfd69d46770bb2b491ae24b-Abstract-Conference.html), [Code](https://github.com/SaminYeasar/DAPD)
    * **Keywords**: Energy Efficient AI, Parameter Efficient, Neural Pathways, Continuous Control, Online Reinforcement Learning, Offline Reinforcement Learning, Multitask Reinforcement Learning.
   * **TL;DR**: To improve energy efficiency and reduce the carbon footprint, we propose Neural Pathway to efficiently use the network parameter space for reinforcement learning.
-* **March 2024.** I'm joining **Microsoft Research**, Montreal as part-time research intern. I will be working on parameter efficient fine-tuning (PEFT) with the goal of building a mixture of experts (MoE) for LLMs.
+
 
 ---
 
@@ -44,6 +44,7 @@ I completed Master's in Electrical and Computer Engineering at McGill University
 
  
 ### News
+* **March 2024.** I'm joined **Microsoft Research**, Montreal as part-time research intern. I will be working on sparse-adapters for efficient fine-tuning and model merging at scale for LLMs.
 * **May, 2023- Aug, 2023.** I worked at **Microsoft Research**, New York as **Research Intern**, on an Appiled RL project with John Langford and Alex Lamb.
 * **October, 2021.** Two papers got accepted in **Offline Reinforcement Learning Workshop, NeurIPS 2021**
   - "Importance of Empirical Sample Complexity Analysis for Offline Reinforcement Learning" - [Paper](https://offline-rl-neurips.github.io/2021/pdf/38.pdf)
