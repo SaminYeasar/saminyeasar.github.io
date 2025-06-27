@@ -8,7 +8,7 @@ subtitle:
 
 ### Latest News
 * **March 2025.** "**Exploring Sparse Adapters for Scalable Merging of Parameter Efficient Experts**" got accepted in **ICLR 2025, Workshop on MCDC**! 🎉
-   * [Paper](https://openreview.net/forum?id=8wt2eKkVe6), [Poster](https://drive.google.com/file/d/16TZNQRxT-C9_4TPIQ0M9Kn-tocV8XMHP/view?usp=sharing)
+   * [Paper](https://openreview.net/forum?id=8wt2eKkVe6), [Poster](https://drive.google.com/file/d/16TZNQRxT-C9_4TPIQ0M9Kn-tocV8XMHP/view?usp=sharing), [Code](https://github.com/SaminYeasar/sparse_adapter/tree/main/projects/sparse_finetuning)
    * **Keywords**: Sparse adapter, Parameter-efficient finetuning, Model merging, LLM
    * **TL;DR**: We explore sparse adapters as a simpler and more effective building block for modular, parameter-efficient architectures, demonstrating superior model merging performance at scale.
 * **March 2025.** "**Sparse-Reg: Improving Sample Complexity of Offline Reinforcement Learning using Sparse Regularization.**" got accepted in **RLDM 2025**! 🎉
