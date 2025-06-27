@@ -12,7 +12,7 @@ subtitle:
    * **Keywords**: Sparse adapter, Parameter-efficient finetuning, Model merging, LLM
    * **TL;DR**: We explore sparse adapters as a simpler and more effective building block for modular, parameter-efficient architectures, demonstrating superior model merging performance at scale.
 * **March 2025.** "**Sparse-Reg: Improving Sample Complexity of Offline Reinforcement Learning using Sparse Regularization.**" got accepted in **RLDM 2025**! 🎉
-   * [Paper](https://drive.google.com/file/d/1zIc-OOdd2R9a5LlMjF3KyiICZ84urLdS/view?usp=sharing)
+   * [Paper](https://drive.google.com/file/d/1zIc-OOdd2R9a5LlMjF3KyiICZ84urLdS/view?usp=sharing), [Code](https://github.com/SaminYeasar/sparse_reg)
    * **Keywords**: Offline Reinforcement Learning, Sparsity, Regularization, Sample Complexity, Continuous Control.
    * **TL;DR**: We introduce "Sparse-Reg," a regularization technique that mitigates overfitting in offline reinforcement learning with small datasets, improving performance in continuous control tasks.
 * **September 2024.** "**Efficient Reinforcement Learning by Discovering Neural Pathways**" got accepted in **NeurIPS 2024**! 🎉
