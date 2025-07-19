@@ -8,6 +8,7 @@ subtitle:
 
 ### Latest News
 * **July 2025.** Extented version of the paper "**Sparse Adapters**" got accepted in **COLM 2025**! 🎉
+   * [Paper](https://arxiv.org/abs/2507.07140),[Code](https://github.com/SaminYeasar/sparse_adapter/tree/main/projects/sparse_finetuning)  
 * **March 2025.** "**Exploring Sparse Adapters for Scalable Merging of Parameter Efficient Experts**" got accepted in **ICLR 2025, Workshop on MCDC**! 🎉
    * [Paper](https://openreview.net/forum?id=8wt2eKkVe6), [Poster](https://drive.google.com/file/d/16TZNQRxT-C9_4TPIQ0M9Kn-tocV8XMHP/view?usp=sharing), [Code](https://github.com/SaminYeasar/sparse_adapter/tree/main/projects/sparse_finetuning)
    * **Keywords**: Sparse adapter, Parameter-efficient finetuning, Model merging, LLM
