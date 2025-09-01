@@ -7,7 +7,7 @@ subtitle:
 <img src="https://imgur.com/IRBaiqh.png" width="120" height="50"> <img src="https://imgur.com/EQKabmk.png" width="120" height="65"> <img src="https://imgur.com/kNigIqj.png" width="180" height="130"> <img src="https://imgur.com/eWTBidl.png" width="60" height="55"> 
 
 ### Latest News
-* **September 2025** I'm joining **Cohere** <img src="https://imgur.com/a/X5u9GmL.png" width="180" height="130">, and will be working with the RL team in Paris on a next-gen agentic system.
+* **September 2025** I'm joining **Cohere**, and will be working with the RL team in Paris on a next-gen agentic system.
 * **July 2025.** Extented version of the paper "**Sparse Adapters**" got accepted in **COLM 2025**! 🎉
    * [Paper](https://arxiv.org/abs/2507.07140),[Code](https://github.com/SaminYeasar/sparse_adapter/tree/main/projects/sparse_finetuning)  
 * **March 2025.** "**Exploring Sparse Adapters for Scalable Merging of Parameter Efficient Experts**" got accepted in **ICLR 2025, Workshop on MCDC**! 🎉
