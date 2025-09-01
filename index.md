@@ -4,7 +4,7 @@ title: Samin Yeasar Arnob
 subtitle: 
 ---
 
-<img src="https://imgur.com/IRBaiqh.png" width="120" height="50"> <img src="https://imgur.com/EQKabmk.png" width="120" height="65"> <img src="https://imgur.com/eWTBidl.png" width="60" height="55"> <img src="https://imgur.com/kNigIqj.png" width="60" height="55">
+<img src="https://imgur.com/IRBaiqh.png" width="120" height="50"> <img src="https://imgur.com/EQKabmk.png" width="120" height="65"> <img src="https://imgur.com/kNigIqj.png" width="120" height="100"> <img src="https://imgur.com/eWTBidl.png" width="60" height="55"> 
 
 ### Latest News
 * **September 2025** I'm joining Cohere at the RL team, will be working on next-gen agentic system.
