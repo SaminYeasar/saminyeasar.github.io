@@ -10,7 +10,7 @@ subtitle:
 <img src="https://imgur.com/eWTBidl.png" width="60" height="55"> <img src="https://imgur.com/A47NGF8.png" width="60" height="55">
 
 ### Latest News
-* **September 2025** I have joined **Cohere** <img src="https://imgur.com/uWhQaJA.png" width="60" height="55"> to work on LLM reasoning.
+* **September 2025** I have joined **Cohere** <img src="https://imgur.com/jEHo7W7.png" width="60" height="55"> to work on LLM reasoning.
   
 ---
 * **July 2025.** Extented version of the paper "**Sparse Adapters**" got accepted in **COLM 2025**! 🎉
