@@ -10,7 +10,7 @@ subtitle:
 <img src="https://imgur.com/eWTBidl.png" width="60" height="55"> <img src="https://imgur.com/A47NGF8.png" width="60" height="55">
 
 ### Latest News
-* **September 2025** I have joined **Cohere** to work on LLM reasoning.
+* **September 2025** I have joined **Cohere** <img src="https://imgur.com/a/uWhQaJA.png" width="60" height="55"> to work on LLM reasoning.
 ---
 * **July 2025.** Extented version of the paper "**Sparse Adapters**" got accepted in **COLM 2025**! 🎉
    * [Paper](https://arxiv.org/abs/2507.07140),[Code](https://github.com/SaminYeasar/sparse_adapter/tree/main/projects/sparse_finetuning)  
