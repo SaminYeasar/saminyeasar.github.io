@@ -4,7 +4,7 @@ title: Samin Yeasar Arnob
 subtitle: 
 ---
 
-<img src="https://imgur.com/IRBaiqh.png" width="120" height="50"> <img src="https://imgur.com/EQKabmk.png" width="120" height="65"> <img src="https://imgur.com/kNigIqj.png" width="180" height="130"> 
+<img src="https://imgur.com/IRBaiqh.png" width="120" height="50"> <img src="https://imgur.com/EQKabmk.png" width="120" height="65"> <img src="https://imgur.com/kNigIqj.png" width="180" height="120"> 
 
 ### Previously
 <img src="https://imgur.com/eWTBidl.png" width="60" height="55"> <img src="https://imgur.com/A47NGF8.png" width="60" height="55">
